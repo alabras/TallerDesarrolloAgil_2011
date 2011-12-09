@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinero", "Dinero\Dinero.csproj", "{21B18937-028D-4C68-8DF2-8CD20D0B65CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinero.Test", "Dinero.Test\Dinero.Test.csproj", "{9CDA8D71-E79E-4920-9D68-38946591CA4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B18937-028D-4C68-8DF2-8CD20D0B65CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B18937-028D-4C68-8DF2-8CD20D0B65CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B18937-028D-4C68-8DF2-8CD20D0B65CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B18937-028D-4C68-8DF2-8CD20D0B65CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CDA8D71-E79E-4920-9D68-38946591CA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDA8D71-E79E-4920-9D68-38946591CA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDA8D71-E79E-4920-9D68-38946591CA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDA8D71-E79E-4920-9D68-38946591CA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora.Negocio.Test", "Calculadora.Negocio.Test\Calculadora.Negocio.Test.csproj", "{6F893CB4-3F82-463E-944D-EB7A345A7862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora.Negocio", "Calculadora.Negocio\Calculadora.Negocio.csproj", "{A15F3B10-3412-4334-9EF6-75F5A40C7760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F893CB4-3F82-463E-944D-EB7A345A7862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F893CB4-3F82-463E-944D-EB7A345A7862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F893CB4-3F82-463E-944D-EB7A345A7862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F893CB4-3F82-463E-944D-EB7A345A7862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15F3B10-3412-4334-9EF6-75F5A40C7760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15F3B10-3412-4334-9EF6-75F5A40C7760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15F3B10-3412-4334-9EF6-75F5A40C7760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15F3B10-3412-4334-9EF6-75F5A40C7760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
